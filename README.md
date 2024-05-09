@@ -1,6 +1,6 @@
 # CV
 
-My CV (updated October 2022)
+My CV (updated May 2024)
 
 View online: 
 https://yangmuhe.github.io/CV/
