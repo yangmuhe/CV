@@ -1,9 +1,9 @@
 # CV
 
-My CV (updated May 2025)
+My CV (updated Aug 2025)
 
 View online: 
 https://yangmuhe.github.io/CV/
 
 Download: 
-https://yangmuhe.github.io/CV/CV-MuheYang-202505.pdf
+https://yangmuhe.github.io/CV/CV-MuheYang-202508.pdf
